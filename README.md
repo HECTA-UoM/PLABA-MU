@@ -3,7 +3,7 @@
 Read our pre-print: https://arxiv.org/abs/2309.13202 
 
 # Title 
-Investigating Large Language Models and Control Mechanisms to Improve Text Readability of Biomedical Abstracts
+"Investigating Large Language Models and Control Mechanisms to Improve Text Readability of Biomedical Abstracts"
     by Zihao Li, Samuel Belkadi, Nicolo Micheletti, Lifeng Han, Matthew Shardlow and Goran Nenadic
 
 
