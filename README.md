@@ -15,11 +15,6 @@ Biomedical literature often uses complex language and inaccessible professional 
 
 # Citation 
 
-@misc{li2023large,
-      title={Large Language Models and Control Mechanisms Improve Text Readability of Biomedical Abstracts}, 
-      author={Zihao Li and Samuel Belkadi and Nicolo Micheletti and Lifeng Han and Matthew Shardlow and Goran Nenadic},
-      year={2023},
-      eprint={2309.13202},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
+Li, Z., Belkadi, S., Micheletti, N., Han, L., Shardlow, M., & Nenadic, G. (2024, June). Investigating large language models and control mechanisms to improve text readability of biomedical abstracts. In 2024 IEEE 12th International Conference on Healthcare Informatics (ICHI) (pp. 265-274). IEEE.
+
+
